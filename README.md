@@ -3,11 +3,12 @@
 This repository serves to document using Bootstrap to create a website for a dog tinder app.
 
 ## What I Have Used
+
 **Bootstrap 4.1.3**
 
 ## Getting Started
 
-To be completed.
+To provide url if this is uploaded.
 
 
 ## Built With
