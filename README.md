@@ -7,8 +7,7 @@ This repository serves to document using Bootstrap to create a website for a dog
 **Bootstrap 4.1.3**
 
 ## Getting Started
-
-To provide url if this is uploaded.
+Click on link: https://tingzhouu.github.com/TinDogs
 
 
 ## Built With
