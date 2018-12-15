@@ -1,6 +1,6 @@
 # TinDog
 
-This repository serves to document using Bootstrap to create a website for a dog tinder app.
+This repository serves to document my learning of Bootstrap via a tutorial to create a website for a dog tinder app.
 
 ## What I Have Used
 
